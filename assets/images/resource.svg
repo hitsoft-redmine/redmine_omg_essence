@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20px" height="20px" viewBox="0 0 14 14">
+    <g transform="matrix(.19844 0 0 .19844 -8.475 19.52)" fill="none" stroke="#6e6e6e">
+        <rect rx=".897" width="60.503" height="40.347" x="47.735" y="-83.264" ry=".897" stroke-width="5"
+              stroke-dasharray="9,3" stroke-dashoffset="5"/>
+        <path d="M65.8-83.19v21.177" stroke-width="5" stroke-linecap="round"/>
+        <path d="M89.835-43.23v-18.996" stroke-width="5" stroke-linecap="round"/>
+        <path d="M65.8-62.104h24.035" stroke-width="5"/>
+    </g>
+</svg>
